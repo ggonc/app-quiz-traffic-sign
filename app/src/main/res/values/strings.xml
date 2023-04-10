@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz Placas</string>
+    <string name="textPerguntaSignificado">Qual o significado dessa placa?</string>
+    <string name="rbtPlaca1">Permitido cavar</string>
+    <string name="rbtPlaca2">Sinalização de obras</string>
+    <string name="rbtPlaca3">Área de pesca</string>
+    <string name="rbtPlaca4">Proibido estacionar</string>
+    <string name="rbtPlaca5">Curva acentuada à esquerda</string>
+    <string name="rbtPlaca6">Curva à esquerda</string>
+    <string name="rbtPlaca7">Mudança de faixa à esquerda</string>
+    <string name="rbtPlaca8">Proibido virar à direita</string>
+    <string name="rbtPlaca9">Proibido virar à esquerda</string>
+    <string name="rbtPlaca10">Proibido retornar à direita</string>
+    <string name="rbtPlaca11">Proibido retornar à esquerda</string>
+    <string name="rbtPlaca12">Curva acentuada</string>
+    <string name="buttonResponder">Responder</string>
+    <string name="buttonReiniciar">Reiniciar</string>
+    <string name="buttonSair">Sair</string>
+</resources>
